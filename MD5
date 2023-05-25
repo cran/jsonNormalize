@@ -1,0 +1,9 @@
+b94903025405b976e13a34ee120579f2 *DESCRIPTION
+9704284f45d9ea2d8835506203c566e3 *NAMESPACE
+af2d898c9672e9c8f9388f7e863b25ef *R/addins.R
+33e4510ca60ae69f66702fab73d8af7d *R/jsonNormalize.R
+ad332f1440007c02592c754815234812 *README.md
+269fb6ea0984f564e2aa29382015fd01 *inst/essais/json1.json
+32f4bd1721f14ee68208127256e35cf0 *inst/js/jsonNormalize.js
+9a23a517a76b653dcd991324122e78b5 *inst/rstudio/addins.dcf
+1bc4224f2b51b6c96ed90d4a9e5bb691 *man/jsonNormalize.Rd
